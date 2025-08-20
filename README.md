@@ -1,3 +1,3 @@
 # project-demo
 this is my first git repository
-author-vinay
+author-vinay g
